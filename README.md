@@ -1,5 +1,6 @@
 # 🎓 Descriptive Answer Evaluation System
-### AI-Powered Answer Evaluation using NLP & Machine Learning
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19277192.svg)](https://doi.org/10.5281/zenodo.19277192)
+### AI-Driven Automated Descriptive Answer Evaluation Using LDA-Based Topic Modeling, Sentence-BERT Semantic Similarity, and T5 Contextual Analysis with Learning Analytics and Intelligent Feedback
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.45.0-red)
